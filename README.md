@@ -1,2 +1,4 @@
 # odin-recipes
 This is the project I am doing as an assignment from The Odin Project course Foundations to check my progress with HTML. I will use links and upload images as well as using strong and itallic phrases in this project. However I am not sure will I need another page or not.
+Upd:This project contains 4 html pages. Homepage and 3 recipe pages. In peach-pie.html and brown-sugar-bubble-tea.html I used images saved to the folder "images". In simple-bbq-ribs.html I tried to use images from another web-page.
+I aslo added the link to the homepage later to each recipe page for better navigation.
