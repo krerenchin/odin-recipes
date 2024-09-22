@@ -1,0 +1,28 @@
+body {
+    background-color: peachpuff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: 44px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    font-size: 24px;
+}
+
+ul {
+    font-size: 28px;
+}
+
+ol{
+    font-size: 28px;
+}
